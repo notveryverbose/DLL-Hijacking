@@ -1,4 +1,4 @@
-## 🍇
+## DLL Hijacking 🍇
 DLL Hijacking project inspired by APT29 GRAPELOADER: https://research.checkpoint.com/2025/apt29-phishing-campaign/
 
 The focus wasn't to recreate GRAPELOADER, but to focus on hijacking a malicious DLL using a trusted binary aspect as well as attempting to write my own simple C2:
